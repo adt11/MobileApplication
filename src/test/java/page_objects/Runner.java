@@ -59,7 +59,7 @@ public class Runner extends BaseTest{
     public Object[][]getData(){
 
         return new Object[][]{
-            {"pks+22@hubilo.com", "1234", "Testing"}
+            {"abc@gmail.com", "0000", "Testing"}
         };
     }
 
